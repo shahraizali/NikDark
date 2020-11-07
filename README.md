@@ -13,9 +13,9 @@
 
 ### Connect with me
 
-[<img src="https://www.flaticon.com/svg/static/icons/svg/145/145807.svg" width="35px"/>][LinkedIn]
-[<img src="https://www.flaticon.com/svg/static/icons/svg/145/145813.svg" width="35px"/>][VK]
-[<img src="https://www.flaticon.com/svg/static/icons/svg/145/145805.svg" width="35px"/>][Instagram]
+[<img style="margin-left:10px" src="https://www.flaticon.com/svg/static/icons/svg/145/145807.svg" width="35px"/>][LinkedIn]
+[<img style="margin-left:10px" src="https://www.flaticon.com/svg/static/icons/svg/145/145813.svg" width="35px"/>][VK]
+[<img style="margin-left:10px" src="https://www.flaticon.com/svg/static/icons/svg/145/145805.svg" width="35px"/>][Instagram]
 
 <br>
 
