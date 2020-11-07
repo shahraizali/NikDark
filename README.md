@@ -21,15 +21,15 @@
 
 ### Language and tools
 
-<img src="https://www.simplilearn.com/ice9/free_resources_article_thumb/VSCode.png" width="35px">
-<img style="margin-left:10px" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/267_Python_logo-512.png" width="35px">
-<img style="margin-left:10px" src="https://www.flaticon.com/svg/static/icons/svg/1265/1265531.svg" width="35px">
-<img style="margin-left:10px" src="https://cdn.worldvectorlogo.com/logos/django.svg" width="35px" height="35px">
-<img style="margin-left:10px" src="https://cdn.worldvectorlogo.com/logos/linux-tux-2.svg" width="35px" height="35px">
-<img style="margin-left:10px" src="https://cdn.worldvectorlogo.com/logos/git-icon.svg" width="35px">
-<img style="margin-left:10px" src="https://cdn.worldvectorlogo.com/logos/bootstrap-4.svg" width="35px" height="35px">
-<img style="margin-left:10px" src="https://cdn.worldvectorlogo.com/logos/html-5.svg" width="35px" height="35px">
-<img src="https://cdn.worldvectorlogo.com/logos/css3.svg" width="38px">
+<img align="left" src="https://www.simplilearn.com/ice9/free_resources_article_thumb/VSCode.png" width="35px">
+<img align="left" style="margin-left:10px" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/267_Python_logo-512.png" width="35px">
+<img align="left" style="margin-left:10px" src="https://www.flaticon.com/svg/static/icons/svg/1265/1265531.svg" width="35px">
+<img align="left" style="margin-left:10px" src="https://cdn.worldvectorlogo.com/logos/django.svg" width="35px" height="35px">
+<img align="left" style="margin-left:10px" src="https://cdn.worldvectorlogo.com/logos/linux-tux-2.svg" width="35px" height="35px">
+<img align="left" style="margin-left:10px" src="https://cdn.worldvectorlogo.com/logos/git-icon.svg" width="35px">
+<img align="left" style="margin-left:10px" src="https://cdn.worldvectorlogo.com/logos/bootstrap-4.svg" width="35px" height="35px">
+<img align="left" style="margin-left:10px" src="https://cdn.worldvectorlogo.com/logos/html-5.svg" width="35px" height="35px">
+<img align="left" src="https://cdn.worldvectorlogo.com/logos/css3.svg" width="38px">
 
 
 [VK]: https://vk.com/nikefr7
