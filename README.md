@@ -29,8 +29,8 @@
 <img align="left" style="margin-left:10px" src="https://cdn.worldvectorlogo.com/logos/git-icon.svg" width="35px">
 <img align="left" style="margin-left:10px" src="https://cdn.worldvectorlogo.com/logos/bootstrap-4.svg" width="35px" height="35px">
 <img align="left" style="margin-left:10px" src="https://cdn.worldvectorlogo.com/logos/html-5.svg" width="35px" height="35px">
-<img align="left" src="https://cdn.worldvectorlogo.com/logos/css3.svg" width="38px">
-
+<img align="left" style="margin-left:0px" src="https://cdn.worldvectorlogo.com/logos/nginx-1.svg" width="35px" height="35px">
+<img align="left" style="margin-left:10px" src="https://cdn.worldvectorlogo.com/logos/javascript.svg" width="35px" height="35px">
 
 [VK]: https://vk.com/nikefr7
 [LinkedIn]: https://www.linkedin.com/in/nikita-efremov-6820a2130/
