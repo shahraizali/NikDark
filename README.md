@@ -13,9 +13,17 @@
 
 ### Connect with me
 
-[<img style="margin-left:10px" src="https://www.flaticon.com/svg/static/icons/svg/145/145807.svg" width="35px"/>][LinkedIn]
-[<img style="margin-left:10px" src="https://www.flaticon.com/svg/static/icons/svg/145/145813.svg" width="35px"/>][VK]
-[<img style="margin-left:10px" src="https://www.flaticon.com/svg/static/icons/svg/145/145805.svg" width="35px"/>][Instagram]
+<div class="social" style="display:flex">
+    <a href="https://www.linkedin.com/in/nikita-efremov-6820a2130/">
+        <img src="https://www.flaticon.com/svg/static/icons/svg/145/145807.svg" alt="" width="36px"/>
+    </a>
+    <a href="https://vk.com/nikefr7">
+        <img src="https://www.flaticon.com/svg/static/icons/svg/145/145813.svg" alt="" width="36px"/>
+    </a>
+    <a href="https://www.instagram.com/nikefr7/">
+        <img src="https://www.flaticon.com/svg/static/icons/svg/145/145805.svg" alt="" width="36px"/>
+    </a>
+</div>
 
 <br>
 
