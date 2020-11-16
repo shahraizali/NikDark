@@ -39,7 +39,9 @@
     <img style="margin:10px" src="https://cdn.worldvectorlogo.com/logos/javascript.svg" width="36px" height="36px">
 </div>
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=NikDark)](https://github.com/anuraghazra/github-readme-stats)
+<br>
+
+
 
 <!--START_SECTION:waka-->
 **I'm an Early 🐤** 
@@ -89,6 +91,9 @@ Linux                    7 hrs 54 mins       ███████████�
 
 
 <!--END_SECTION:waka-->
+
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=NikDark)](https://github.com/anuraghazra/github-readme-stats)
 
 [VK]: https://vk.com/nikefr7
 [LinkedIn]: https://www.linkedin.com/in/nikita-efremov-6820a2130/
