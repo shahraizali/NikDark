@@ -39,7 +39,8 @@
     <img style="margin:10px" src="https://cdn.worldvectorlogo.com/logos/javascript.svg" width="36px" height="36px">
 </div>
 
-![Wwakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=NikDark&hide_title=true&hide_border=true&langs_count=5)
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 [VK]: https://vk.com/nikefr7
 [LinkedIn]: https://www.linkedin.com/in/nikita-efremov-6820a2130/
