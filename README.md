@@ -39,6 +39,8 @@
     <img style="margin:10px" src="https://cdn.worldvectorlogo.com/logos/javascript.svg" width="36px" height="36px">
 </div>
 
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=NikDark)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
